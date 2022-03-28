@@ -1,0 +1,55 @@
+div.parent{
+    
+    height: 100vh;
+    border: solid 5px rgb(255, 16,96);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    align-self: start;
+    flex-wrap: wrap;
+}
+div.child-1 {
+    width: 200px;
+    hidth: 200px;
+    background-color: mediumblue;
+}
+
+div.chil-2{
+    width: 290px;
+    height: 200px;
+    background-color: red;
+}
+div.{
+    width: 200px;
+    height: 200px;
+    background-color: magenta;
+}
+div.child-4{
+    width: 200px;
+    height: 200px;
+    background-color: maroon;
+    div .chil-5{
+        width: 200px;
+        height: 200px;
+    }
+}
+img{
+    width: 150px;
+    height: 150px
+}
+p {
+    justify-content: center;
+}
+
+
+h1{
+    color: aliceblue;
+    background-color: aqua;
+    width: 200px;
+    height: 50px;
+}
+p{
+    color: antiquewhite;
+    background-color: aqua;
+    width: 200px;
+    height: 50px;
